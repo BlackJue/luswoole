@@ -1,0 +1,21 @@
+{
+    "name": "blackjue/luswoole",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David",
+            "email": "304646940@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "blackjue\\luswoole\\": "src"
+        }
+    }
+
+}

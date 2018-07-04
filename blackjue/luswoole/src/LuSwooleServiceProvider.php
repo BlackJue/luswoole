@@ -17,4 +17,8 @@ class LuSwooleServiceProvider extends ServiceProvider
         
     }
 
+    public function test(){
+        
+    }
+
 }
